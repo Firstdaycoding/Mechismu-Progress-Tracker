@@ -1,29 +1,6 @@
-// ═══════════════════════════════════════════════════════════════════════
-// BACKEND CONFIG
-// Put your backend's base URL here. Every request below is built from it:
-//   GET  {url}/data    -> must return the full data JSON (see shape below)
-//   POST {url}/data    -> body is the full data JSON, backend should persist it
-//   POST {url}/login   -> body is { password }, backend returns an OK (2xx)
-//                         status if the password is correct, and a non-2xx
-//                         status (e.g. 401) if it is wrong.
-//
-// Expected shape of the data JSON (this is exactly what GET {url}/data
-// should return, and exactly what gets sent back on POST {url}/data):
-//
-// {
-//   "chassis": {
-//     "2026-W25": { "targets": [{ "text": "...", "done": true }], "remarks": "..." },
-//     "2026-W24": { ... },
-//     "months": {
-//       "2026-06": { "targets": [{ "text": "...", "done": false }] }
-//     }
-//   },
-//   "drivetrain": { ... },
-//   ...
-// }
-// ═══════════════════════════════════════════════════════════════════════
-let url = 'http://127.0.0.1:5000/api';
-
+const url = window.location.hostname === "127.0.0.1" || window.location.hostname === "localhost"
+  ? "http://127.0.0.1:5000/api" 
+  : window.location.origin + "/api";
 // ═══════════════════════ CONSTANTS ═══════════════════════
 const DIVISIONS = [
   {id:'chassis',    name:'Chassis',                     icon:'🏗️'},
