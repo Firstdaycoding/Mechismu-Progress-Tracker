@@ -212,8 +212,8 @@
           "text": "Final dimensional check vs CAD"
         },
         {
-          "text": "Hello Wold",
-          "done": true
+          "done": true,
+          "text": "Hello Wold"
         }
       ]
     },
