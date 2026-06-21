@@ -1,6 +1,8 @@
 const url = window.location.hostname === "127.0.0.1" || window.location.hostname === "localhost"
   ? "http://127.0.0.1:5000/api" 
   : window.location.origin + "/api";
+
+
 // ═══════════════════════ CONSTANTS ═══════════════════════
 const DIVISIONS = [
   {id:'chassis',    name:'Chassis',                     icon:'🏗️'},
