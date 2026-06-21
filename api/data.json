@@ -95,8 +95,8 @@
           "text": "Order calipers and rotors"
         },
         {
-          "text": "Hello Wold",
-          "done": false
+          "done": false,
+          "text": "Hello Wold"
         }
       ]
     },
@@ -393,7 +393,7 @@
             "text": "Bench test motor + controller pairing"
           },
           {
-            "done": false,
+            "done": true,
             "text": "Tune torque map"
           },
           {
