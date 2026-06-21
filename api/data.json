@@ -51,6 +51,10 @@
         }
       ]
     },
+    "2026-W26": {
+      "remarks": "",
+      "targets": []
+    },
     "meetings": [
       {
         "agenda": "Accumulator segment build progress and firmware flashing plan.",
@@ -76,10 +80,6 @@
           }
         ]
       }
-    },
-    "2026-W26": {
-      "targets": [],
-      "remarks": ""
     }
   },
   "brakes": {
@@ -138,6 +138,15 @@
         }
       ]
     },
+    "2026-W26": {
+      "remarks": "",
+      "targets": [
+        {
+          "text": "Pedal ratio change",
+          "done": false
+        }
+      ]
+    },
     "meetings": [
       {
         "agenda": "Brake line vendor delay \u2014 schedule recovery options.",
@@ -163,10 +172,6 @@
           }
         ]
       }
-    },
-    "2026-W26": {
-      "targets": [],
-      "remarks": ""
     }
   },
   "chassis": {
@@ -389,6 +394,10 @@
         }
       ]
     },
+    "2026-W26": {
+      "remarks": "",
+      "targets": []
+    },
     "meetings": [
       {
         "agenda": "Recovery plan after shipment customs delay.",
@@ -414,10 +423,6 @@
           }
         ]
       }
-    },
-    "2026-W26": {
-      "targets": [],
-      "remarks": ""
     }
   },
   "safety": {
@@ -472,6 +477,10 @@
         }
       ]
     },
+    "2026-W26": {
+      "remarks": "",
+      "targets": []
+    },
     "meetings": [
       {
         "agenda": "LV harness install and AMS-BMS integration review.",
@@ -497,10 +506,6 @@
           }
         ]
       }
-    },
-    "2026-W26": {
-      "targets": [],
-      "remarks": ""
     }
   },
   "suspension": {
