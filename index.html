@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mechismu Racing Electric · Team Progress Tracker</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+
+<div id="telemetry">
+  <div class="tele-brand">⚡ Mechismu Racing Electric</div>
+  <div class="tele-race">
+    <div class="tele-label">Team Completion · This Week</div>
+    <div class="tele-bar-track"><div class="tele-bar-fill" id="tele-bar" style="width:0%"></div></div>
+  </div>
+  <div class="tele-stats" id="tele-stats"></div>
+  <div class="tele-sync">
+    <span class="sync-status uncfg" id="sync-status">⚙ Not configured</span>
+  </div>
+  <span class="mode-badge view-mode" id="mode-badge">VIEW MODE</span>
+  <button class="switch-mode-btn" id="switch-mode-btn">→ Lead Edit</button>
+</div>
+
+<div id="app">
+  <nav id="sidebar">
+    <div class="sidebar-section-label">Divisions</div>
+    <div id="sidebar-divisions"></div>
+    <div class="sidebar-divider"></div>
+    <div class="sidebar-section-label">Views</div>
+    <div class="sidebar-nav-item active" data-view="overview" id="nav-overview">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+      Overview
+    </div>
+    <div class="sidebar-nav-item" data-view="monthly" id="nav-monthly">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+      Monthly View
+    </div>
+    <div class="sidebar-divider"></div>
+
+  </nav>
+  <main id="main"></main>
+</div>
+
+<div id="toast"></div>
+<script src="app.js"></script>
+
+</body>
+</html>

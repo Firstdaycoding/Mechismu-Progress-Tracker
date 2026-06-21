@@ -1,0 +1,561 @@
+{
+  "battery": {
+    "2026-W23": {
+      "remarks": "PCBs arrived clean, no fab defects found on inspection.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Receive and inspect BMS PCBs"
+        },
+        {
+          "done": true,
+          "text": "Begin populating BMS boards"
+        },
+        {
+          "done": true,
+          "text": "Order remaining cells and nickel strip"
+        }
+      ]
+    },
+    "2026-W24": {
+      "remarks": "First BMS board powered up successfully and reads cell voltages correctly.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Finish populating and testing BMS boards"
+        },
+        {
+          "done": true,
+          "text": "Begin spot-welding first accumulator segment"
+        },
+        {
+          "done": true,
+          "text": "Set up insulation resistance test rig"
+        }
+      ]
+    },
+    "2026-W25": {
+      "remarks": "Segment 1 passed insulation resistance test on the first try.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Complete first two accumulator segments"
+        },
+        {
+          "done": true,
+          "text": "Flash initial BMS firmware build"
+        },
+        {
+          "done": false,
+          "text": "Run insulation resistance test on segment 1"
+        }
+      ]
+    },
+    "meetings": [
+      {
+        "agenda": "Accumulator segment build progress and firmware flashing plan.",
+        "date": "2026-06-18",
+        "decisions": "Firmware flash scheduled for Tuesday. Neha to coordinate insulation resistance testing for segment 2 in parallel.",
+        "time": "17:00"
+      }
+    ],
+    "months": {
+      "2026-06": {
+        "targets": [
+          {
+            "done": false,
+            "text": "Assemble all accumulator segments"
+          },
+          {
+            "done": false,
+            "text": "Flash and validate BMS firmware"
+          },
+          {
+            "done": false,
+            "text": "Pass full pack insulation resistance test"
+          }
+        ]
+      }
+    }
+  },
+  "brakes": {
+    "2026-W23": {
+      "remarks": "Master cylinder bore locked at 5/8in front, 1/2in rear.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Finalize master cylinder bore selection"
+        },
+        {
+          "done": true,
+          "text": "Release pedal box drawings for manufacturing"
+        },
+        {
+          "done": true,
+          "text": "Order calipers and rotors"
+        }
+      ]
+    },
+    "2026-W24": {
+      "remarks": "Still roughly a week behind schedule; adding an extra work session to recover.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Machine pedal box plates"
+        },
+        {
+          "done": true,
+          "text": "Mount front calipers and rotors for fitment"
+        },
+        {
+          "done": false,
+          "text": "Order brake lines and fittings"
+        }
+      ]
+    },
+    "2026-W25": {
+      "remarks": "Brake line order still pending vendor confirmation \u2014 biggest schedule risk right now.",
+      "targets": [
+        {
+          "done": false,
+          "text": "Assemble pedal box with master cylinders"
+        },
+        {
+          "done": true,
+          "text": "Mount rear calipers and rotors"
+        },
+        {
+          "done": false,
+          "text": "Route and cut brake lines"
+        }
+      ]
+    },
+    "meetings": [
+      {
+        "agenda": "Brake line vendor delay \u2014 schedule recovery options.",
+        "date": "2026-06-14",
+        "decisions": "Added an extra Sunday work session. Kabir to escalate the brake line order to the team captain for expedited shipping.",
+        "time": "18:30"
+      }
+    ],
+    "months": {
+      "2026-06": {
+        "targets": [
+          {
+            "done": true,
+            "text": "Manufacture pedal box"
+          },
+          {
+            "done": false,
+            "text": "Mount calipers/rotors at all four corners"
+          },
+          {
+            "done": false,
+            "text": "Complete bleed and pressure test"
+          }
+        ]
+      }
+    }
+  },
+  "chassis": {
+    "2026-W23": {
+      "remarks": "Welder availability limited to weekends this month; inspection moved up to catch porosity issues early.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Weld remaining side-impact members"
+        },
+        {
+          "done": true,
+          "text": "Start full frame tack-weld inspection"
+        },
+        {
+          "done": false,
+          "text": "Coordinate accumulator mounting with Battery team"
+        }
+      ]
+    },
+    "2026-W24": {
+      "remarks": "Two welds failed dye-penetrant on first pass, re-welded and cleared on retest.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Finish welding full frame"
+        },
+        {
+          "done": true,
+          "text": "Dye-penetrant test all critical welds"
+        },
+        {
+          "done": false,
+          "text": "Begin primer + paint prep"
+        }
+      ]
+    },
+    "2026-W25": {
+      "remarks": "Frame is within 3mm of CAD across all hardpoints. Torsional rig slot confirmed for Wednesday.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Set up torsional rig and begin stiffness testing"
+        },
+        {
+          "done": false,
+          "text": "Draft SES Section 1-3"
+        },
+        {
+          "done": true,
+          "text": "Final dimensional check vs CAD"
+        }
+      ]
+    },
+    "meetings": [
+      {
+        "agenda": "Review torsional rig test plan and confirm welding inspection schedule.",
+        "date": "2026-06-17",
+        "decisions": "Agreed to borrow the mechanical dept's torsional rig for Wednesday. Dye-penetrant retest assigned to Aarav before Friday.",
+        "time": "18:00"
+      },
+      {
+        "agenda": "Frame welding progress check and SES draft kickoff.",
+        "date": "2026-06-10",
+        "decisions": "Welding sessions moved to weekends only due to lab access. SES draft owner assigned: Aarav, first section due next meeting.",
+        "time": "18:00"
+      }
+    ],
+    "months": {
+      "2026-06": {
+        "targets": [
+          {
+            "done": true,
+            "text": "Finish full frame welding"
+          },
+          {
+            "done": false,
+            "text": "Complete torsional rig testing"
+          },
+          {
+            "done": false,
+            "text": "Get SES draft ready for submission"
+          }
+        ]
+      }
+    }
+  },
+  "drivetrain": {
+    "2026-W23": {
+      "remarks": "Drawings released two days late but machining shop confirmed a slot for next week.",
+      "targets": [
+        {
+          "done": false,
+          "text": "Release final drivetrain drawings"
+        },
+        {
+          "done": true,
+          "text": "Place machining order for diff mount"
+        },
+        {
+          "done": true,
+          "text": "Begin driveshaft CV joint sourcing"
+        }
+      ]
+    },
+    "2026-W24": {
+      "remarks": "Vendor machining delayed by 2 days due to tool breakage.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Pick up machined diff mount from vendor"
+        },
+        {
+          "done": true,
+          "text": "Assemble chain/sprocket on test rig"
+        },
+        {
+          "done": false,
+          "text": "Confirm CV joint compatibility with driveshaft length"
+        }
+      ]
+    },
+    "2026-W25": {
+      "remarks": "Diff mount fits cleanly on first attempt. CV joint spec sheet still pending from vendor.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Install diff mount on chassis cradle"
+        },
+        {
+          "done": false,
+          "text": "Complete chain/sprocket alignment check"
+        },
+        {
+          "done": false,
+          "text": "Start no-load bench spin test"
+        }
+      ]
+    },
+    "meetings": [
+      {
+        "agenda": "Diff mount vendor delay and CV joint sourcing status.",
+        "date": "2026-06-16",
+        "decisions": "Escalate CV joint spec request to vendor with a hard deadline. Sanya to follow up daily until resolved.",
+        "time": "19:00"
+      }
+    ],
+    "months": {
+      "2026-06": {
+        "targets": [
+          {
+            "done": true,
+            "text": "Manufacture and assemble final drive"
+          },
+          {
+            "done": false,
+            "text": "Complete driveshaft CV joint integration"
+          },
+          {
+            "done": false,
+            "text": "Bench test full drivetrain under load"
+          }
+        ]
+      }
+    }
+  },
+  "motor": {
+    "2026-W23": {
+      "remarks": "Shipment tracking shows a customs delay of about 5 days.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Track motor/inverter shipment"
+        },
+        {
+          "done": true,
+          "text": "Finalize cooling loop routing drawings"
+        },
+        {
+          "done": false,
+          "text": "Prepare bench test rig wiring"
+        }
+      ]
+    },
+    "2026-W24": {
+      "remarks": "Hardware arrived and cleared inspection with no shipping damage.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Receive motor and inverter"
+        },
+        {
+          "done": true,
+          "text": "Mount motor on test bench"
+        },
+        {
+          "done": true,
+          "text": "Begin low-voltage inverter bring-up"
+        }
+      ]
+    },
+    "2026-W25": {
+      "remarks": "First spin test successful at 500 RPM with no faults.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Complete inverter CAN bus bring-up"
+        },
+        {
+          "done": true,
+          "text": "Run first low-torque spin test"
+        },
+        {
+          "done": false,
+          "text": "Begin torque map baseline tuning"
+        }
+      ]
+    },
+    "meetings": [
+      {
+        "agenda": "Recovery plan after shipment customs delay.",
+        "date": "2026-06-12",
+        "decisions": "Faculty advisor looped in for a catch-up plan. Bench rig wiring prioritized while hardware was in transit.",
+        "time": "18:00"
+      }
+    ],
+    "months": {
+      "2026-06": {
+        "targets": [
+          {
+            "done": true,
+            "text": "Bench test motor + controller pairing"
+          },
+          {
+            "done": false,
+            "text": "Tune torque map"
+          },
+          {
+            "done": false,
+            "text": "Validate regen braking logic"
+          }
+        ]
+      }
+    }
+  },
+  "safety": {
+    "2026-W23": {
+      "remarks": "IMD module correctly detects induced insulation faults down to 100 ohm/volt.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Begin building shutdown circuit on breadboard"
+        },
+        {
+          "done": true,
+          "text": "Start cutting and crimping LV harness wires"
+        },
+        {
+          "done": true,
+          "text": "Bench test IMD module standalone"
+        }
+      ]
+    },
+    "2026-W24": {
+      "remarks": "Shutdown circuit triggers correctly from all five shutdown points.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Finish shutdown circuit build and test all buttons"
+        },
+        {
+          "done": true,
+          "text": "Continue LV harness crimping and labeling"
+        },
+        {
+          "done": true,
+          "text": "Mount GLV battery and DC-DC converter"
+        }
+      ]
+    },
+    "2026-W25": {
+      "remarks": "Harness routing through the chassis is clean and matches the diagram with zero rework.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Install LV harness in chassis"
+        },
+        {
+          "done": true,
+          "text": "Integrate AMS with BMS communication bus"
+        },
+        {
+          "done": false,
+          "text": "Run full GLV system functional test"
+        }
+      ]
+    },
+    "meetings": [
+      {
+        "agenda": "LV harness install and AMS-BMS integration review.",
+        "date": "2026-06-13",
+        "decisions": "Harness routing approved as-is, zero rework needed. Priya to run the full GLV functional test before next meeting.",
+        "time": "17:00"
+      }
+    ],
+    "months": {
+      "2026-06": {
+        "targets": [
+          {
+            "done": true,
+            "text": "Build and bench test shutdown circuit"
+          },
+          {
+            "done": true,
+            "text": "Complete LV harness"
+          },
+          {
+            "done": false,
+            "text": "Pass GLV system functional test"
+          }
+        ]
+      }
+    }
+  },
+  "suspension": {
+    "2026-W23": {
+      "remarks": "Damper fitment check revealed a minor clearance issue with the chassis bracket.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Machine front uprights"
+        },
+        {
+          "done": true,
+          "text": "Weld front wishbones"
+        },
+        {
+          "done": true,
+          "text": "Mount dampers for fitment check"
+        }
+      ]
+    },
+    "2026-W24": {
+      "remarks": "Front corner assembly is rolling on the test stand. Bracket clearance fixed with a 5mm shim.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Machine + weld rear uprights and wishbones"
+        },
+        {
+          "done": true,
+          "text": "Install front corner assembly"
+        },
+        {
+          "done": false,
+          "text": "Begin static toe/camber jig setup"
+        }
+      ]
+    },
+    "2026-W25": {
+      "remarks": "All four corners on the car for the first time this season.",
+      "targets": [
+        {
+          "done": true,
+          "text": "Install rear corner assembly"
+        },
+        {
+          "done": false,
+          "text": "Run static camber/toe alignment on all four corners"
+        },
+        {
+          "done": false,
+          "text": "Set baseline damper rebound/compression clicks"
+        }
+      ]
+    },
+    "meetings": [
+      {
+        "agenda": "Rear corner install plan and alignment jig setup.",
+        "date": "2026-06-15",
+        "decisions": "Alignment scheduled for Thursday once chassis is fully rolling. Devika to source the camber gauge from the workshop.",
+        "time": "17:30"
+      }
+    ],
+    "months": {
+      "2026-06": {
+        "targets": [
+          {
+            "done": true,
+            "text": "Manufacture and assemble all four corners"
+          },
+          {
+            "done": false,
+            "text": "Complete static camber/toe alignment"
+          },
+          {
+            "done": false,
+            "text": "Finish damper baseline tuning"
+          }
+        ]
+      }
+    }
+  }
+}

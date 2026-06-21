@@ -1,0 +1,13 @@
+.env
+
+# Local Database File 
+
+api/data.json
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
