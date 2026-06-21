@@ -152,6 +152,10 @@
         {
           "text": "Bots",
           "done": false
+        },
+        {
+          "text": "Throttle",
+          "done": false
         }
       ]
     },
