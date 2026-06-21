@@ -239,14 +239,7 @@
             "text": "Get SES draft ready for submission"
           }
         ]
-      },
-      "2026-05": {
-        "targets": []
       }
-    },
-    "2026-W22": {
-      "targets": [],
-      "remarks": ""
     }
   },
   "drivetrain": {
