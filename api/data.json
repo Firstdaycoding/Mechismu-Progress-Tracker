@@ -156,6 +156,10 @@
         {
           "text": "Throttle",
           "done": false
+        },
+        {
+          "text": "Final documentation",
+          "done": false
         }
       ]
     },
