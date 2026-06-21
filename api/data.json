@@ -148,6 +148,10 @@
         {
           "text": "Fea",
           "done": false
+        },
+        {
+          "text": "Bots",
+          "done": false
         }
       ]
     },
