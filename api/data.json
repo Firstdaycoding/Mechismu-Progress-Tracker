@@ -12,7 +12,7 @@
           "text": "Begin populating BMS boards"
         },
         {
-          "done": true,
+          "done": false,
           "text": "Order remaining cells and nickel strip"
         }
       ]
@@ -93,6 +93,10 @@
         {
           "done": true,
           "text": "Order calipers and rotors"
+        },
+        {
+          "text": "Hello Wold",
+          "done": false
         }
       ]
     },
@@ -166,7 +170,7 @@
           "text": "Weld remaining side-impact members"
         },
         {
-          "done": true,
+          "done": false,
           "text": "Start full frame tack-weld inspection"
         },
         {
