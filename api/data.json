@@ -173,12 +173,7 @@
     ],
     "months": {
       "2026-06": {
-        "targets": [
-          {
-            "text": "Pedal assembly",
-            "done": false
-          }
-        ]
+        "targets": []
       }
     }
   },
