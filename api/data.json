@@ -246,14 +246,7 @@
         }
       ]
     },
-    "meetings": [
-      {
-        "date": "2026-06-28",
-        "time": "22:00",
-        "agenda": "Discuss the weekly target\nManufacturing strategies\nFixtures , notching, Welding",
-        "decisions": ""
-      }
-    ],
+    "meetings": [],
     "months": {
       "2026-06": {
         "targets": [
