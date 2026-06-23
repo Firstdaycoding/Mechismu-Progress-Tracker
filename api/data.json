@@ -279,12 +279,7 @@
       }
     },
     "2026-W26": {
-      "targets": [
-        {
-          "text": "aerg",
-          "done": false
-        }
-      ],
+      "targets": [],
       "remarks": ""
     }
   },
