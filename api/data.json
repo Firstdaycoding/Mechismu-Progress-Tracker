@@ -160,6 +160,10 @@
         {
           "done": false,
           "text": "Final documentation"
+        },
+        {
+          "text": "componets procurement",
+          "done": false
         }
       ]
     },
