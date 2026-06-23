@@ -246,14 +246,7 @@
         }
       ]
     },
-    "meetings": [
-      {
-        "agenda": "Review torsional rig test plan and confirm welding inspection schedule.",
-        "date": "2026-06-17",
-        "decisions": "Agreed to borrow the mechanical dept's torsional rig for Wednesday. Dye-penetrant retest assigned to Aarav before Friday.",
-        "time": "18:00"
-      }
-    ],
+    "meetings": [],
     "months": {
       "2026-06": {
         "targets": [
