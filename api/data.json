@@ -142,24 +142,24 @@
       "remarks": "",
       "targets": [
         {
-          "text": "Pedal ratio change",
-          "done": false
+          "done": false,
+          "text": "Pedal ratio change"
         },
         {
-          "text": "Fea",
-          "done": false
+          "done": false,
+          "text": "Fea"
         },
         {
-          "text": "Bots",
-          "done": false
+          "done": false,
+          "text": "Bots"
         },
         {
-          "text": "Throttle",
-          "done": false
+          "done": false,
+          "text": "Throttle"
         },
         {
-          "text": "Final documentation",
-          "done": false
+          "done": false,
+          "text": "Final documentation"
         }
       ]
     },
@@ -277,6 +277,15 @@
           }
         ]
       }
+    },
+    "2026-W26": {
+      "targets": [
+        {
+          "text": "aerg",
+          "done": false
+        }
+      ],
+      "remarks": ""
     }
   },
   "drivetrain": {
