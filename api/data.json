@@ -173,12 +173,7 @@
     ],
     "months": {
       "2026-06": {
-        "targets": [
-          {
-            "done": true,
-            "text": "Manufacture pedal box"
-          }
-        ]
+        "targets": []
       }
     }
   },
