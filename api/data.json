@@ -252,28 +252,18 @@
         "date": "2026-06-17",
         "decisions": "Agreed to borrow the mechanical dept's torsional rig for Wednesday. Dye-penetrant retest assigned to Aarav before Friday.",
         "time": "18:00"
-      },
-      {
-        "agenda": "Frame welding progress check and SES draft kickoff.",
-        "date": "2026-06-10",
-        "decisions": "Welding sessions moved to weekends only due to lab access. SES draft owner assigned: Aarav, first section due next meeting.",
-        "time": "18:00"
       }
     ],
     "months": {
       "2026-06": {
         "targets": [
           {
-            "done": true,
-            "text": "Finish full frame welding"
+            "text": "ERGO design ( seat, driver , pedal assembly , shoulder harness )",
+            "done": false
           },
           {
-            "done": false,
-            "text": "Complete torsional rig testing"
-          },
-          {
-            "done": false,
-            "text": "Get SES draft ready for submission"
+            "text": "Pipe procurement",
+            "done": false
           }
         ]
       }
@@ -286,6 +276,26 @@
         },
         {
           "text": "Attach the final pedal assembly considering the ergo",
+          "done": false
+        },
+        {
+          "text": "SES (Primary structures & shoulder harness)",
+          "done": false
+        },
+        {
+          "text": "Suspension hard points",
+          "done": false
+        },
+        {
+          "text": "Collect everything that is required for packaging",
+          "done": false
+        },
+        {
+          "text": "Seat and cockpit",
+          "done": false
+        },
+        {
+          "text": "Review the juniors documentation",
           "done": false
         }
       ],
