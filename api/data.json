@@ -164,6 +164,10 @@
         {
           "text": "componets procurement",
           "done": false
+        },
+        {
+          "text": "Rotor design targets (check if required)",
+          "done": false
         }
       ]
     },
