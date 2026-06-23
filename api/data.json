@@ -177,14 +177,6 @@
           {
             "done": true,
             "text": "Manufacture pedal box"
-          },
-          {
-            "done": false,
-            "text": "Mount calipers/rotors at all four corners"
-          },
-          {
-            "done": false,
-            "text": "Complete bleed and pressure test"
           }
         ]
       }
