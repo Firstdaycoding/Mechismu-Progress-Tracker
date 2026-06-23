@@ -177,6 +177,10 @@
           {
             "done": true,
             "text": "Manufacture pedal box"
+          },
+          {
+            "text": "Pedal assemblyu",
+            "done": false
           }
         ]
       }
