@@ -550,6 +550,10 @@
         {
           "text": "Wire Harnessing Study and its Implementation",
           "done": false
+        },
+        {
+          "text": "Documentation of Designs made till now (KiCad Schematics)",
+          "done": false
         }
       ]
     },
