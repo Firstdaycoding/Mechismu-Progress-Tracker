@@ -57,6 +57,10 @@
         {
           "text": "Battery Module Design (Complete Design of one Module)",
           "done": false
+        },
+        {
+          "text": "Review of the above Design (Electrically and Mechanically both aspects)",
+          "done": false
         }
       ]
     },
