@@ -61,6 +61,10 @@
         {
           "text": "Review of the above Design (Electrically and Mechanically both aspects)",
           "done": false
+        },
+        {
+          "text": "Design for Battery Charger (Discussion)",
+          "done": false
         }
       ]
     },
