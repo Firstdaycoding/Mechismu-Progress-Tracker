@@ -546,6 +546,10 @@
         {
           "text": "Docuentation of Designs made till now (KiCad Schematics)",
           "done": false
+        },
+        {
+          "text": "VCU Study",
+          "done": false
         }
       ]
     },
