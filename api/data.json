@@ -53,7 +53,12 @@
     },
     "2026-W26": {
       "remarks": "",
-      "targets": []
+      "targets": [
+        {
+          "text": "Battery Module Design (Complete Design of one Module)",
+          "done": false
+        }
+      ]
     },
     "meetings": [
       {
@@ -351,6 +356,19 @@
         }
       ]
     },
+    "2026-W26": {
+      "remarks": "",
+      "targets": [
+        {
+          "done": false,
+          "text": "Decide about the accelerator pedal"
+        },
+        {
+          "done": false,
+          "text": "Decide the HV connecting wires"
+        }
+      ]
+    },
     "meetings": [
       {
         "agenda": "Diff mount vendor delay and CV joint sourcing status.",
@@ -376,19 +394,6 @@
           }
         ]
       }
-    },
-    "2026-W26": {
-      "targets": [
-        {
-          "text": "Decide about the accelerator pedal",
-          "done": false
-        },
-        {
-          "text": "Decide the HV connecting wires",
-          "done": false
-        }
-      ],
-      "remarks": ""
     }
   },
   "motor": {
