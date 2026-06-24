@@ -162,12 +162,12 @@
           "text": "Final documentation"
         },
         {
-          "text": "componets procurement",
-          "done": false
+          "done": false,
+          "text": "componets procurement"
         },
         {
-          "text": "Rotor design targets (check if required)",
-          "done": false
+          "done": false,
+          "text": "Rotor design targets (check if required)"
         }
       ]
     },
@@ -183,12 +183,12 @@
       "2026-06": {
         "targets": [
           {
-            "text": "Pedal assembly and mounting on chassis",
-            "done": false
+            "done": false,
+            "text": "Pedal assembly and mounting on chassis"
           },
           {
-            "text": "components procuremnet",
-            "done": false
+            "done": false,
+            "text": "components procuremnet"
           }
         ]
       }
@@ -250,53 +250,53 @@
         }
       ]
     },
+    "2026-W26": {
+      "remarks": "",
+      "targets": [
+        {
+          "done": false,
+          "text": "pipes procurement agreement finalize"
+        },
+        {
+          "done": false,
+          "text": "Attach the final pedal assembly considering the ergo"
+        },
+        {
+          "done": false,
+          "text": "SES (Primary structures & shoulder harness)"
+        },
+        {
+          "done": false,
+          "text": "Suspension hard points"
+        },
+        {
+          "done": false,
+          "text": "Collect everything that is required for packaging"
+        },
+        {
+          "done": false,
+          "text": "Seat and cockpit"
+        },
+        {
+          "done": false,
+          "text": "Review the juniors documentation"
+        }
+      ]
+    },
     "meetings": [],
     "months": {
       "2026-06": {
         "targets": [
           {
-            "text": "ERGO design ( seat, driver , pedal assembly , shoulder harness )",
-            "done": false
+            "done": false,
+            "text": "ERGO design ( seat, driver , pedal assembly , shoulder harness )"
           },
           {
-            "text": "Pipe procurement",
-            "done": false
+            "done": false,
+            "text": "Pipe procurement"
           }
         ]
       }
-    },
-    "2026-W26": {
-      "targets": [
-        {
-          "text": "pipes procurement agreement finalize",
-          "done": false
-        },
-        {
-          "text": "Attach the final pedal assembly considering the ergo",
-          "done": false
-        },
-        {
-          "text": "SES (Primary structures & shoulder harness)",
-          "done": false
-        },
-        {
-          "text": "Suspension hard points",
-          "done": false
-        },
-        {
-          "text": "Collect everything that is required for packaging",
-          "done": false
-        },
-        {
-          "text": "Seat and cockpit",
-          "done": false
-        },
-        {
-          "text": "Review the juniors documentation",
-          "done": false
-        }
-      ],
-      "remarks": ""
     }
   },
   "drivetrain": {
@@ -376,6 +376,15 @@
           }
         ]
       }
+    },
+    "2026-W26": {
+      "targets": [
+        {
+          "text": "Decide about the accelerator pedal",
+          "done": false
+        }
+      ],
+      "remarks": ""
     }
   },
   "motor": {
