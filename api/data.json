@@ -386,6 +386,10 @@
         {
           "text": "Decide the HV connecting wires",
           "done": false
+        },
+        {
+          "text": "Make a plan about testing of motors",
+          "done": false
         }
       ],
       "remarks": ""
