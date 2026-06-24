@@ -55,16 +55,16 @@
       "remarks": "",
       "targets": [
         {
-          "text": "Battery Module Design (Complete Design of one Module)",
-          "done": false
+          "done": false,
+          "text": "Battery Module Design (Complete Design of one Module)"
         },
         {
-          "text": "Review of the above Design (Electrically and Mechanically both aspects)",
-          "done": false
+          "done": false,
+          "text": "Review of the above Design (Electrically and Mechanically both aspects)"
         },
         {
-          "text": "Design for Battery Charger (Discussion)",
-          "done": false
+          "done": false,
+          "text": "Design for Battery Charger (Discussion)"
         }
       ]
     },
@@ -74,6 +74,12 @@
         "date": "2026-06-18",
         "decisions": "Firmware flash scheduled for Tuesday. Neha to coordinate insulation resistance testing for segment 2 in parallel.",
         "time": "17:00"
+      },
+      {
+        "date": "2026-06-24",
+        "time": "10:00",
+        "agenda": "Cell arrangement in single module\nInter-cell connections",
+        "decisions": "divide 10p in two 5p so 5 x 16 cells arrangement in a module\ncopper plates design for busbars\nPCB for voltage tabs, thermistors"
       }
     ],
     "months": {
@@ -460,8 +466,8 @@
       "remarks": "",
       "targets": [
         {
-          "text": "Discussion for Motor Controller Design",
-          "done": false
+          "done": false,
+          "text": "Discussion for Motor Controller Design"
         }
       ]
     },
@@ -548,24 +554,24 @@
       "remarks": "",
       "targets": [
         {
-          "text": "Review of Circuit Designs",
-          "done": false
+          "done": false,
+          "text": "Review of Circuit Designs"
         },
         {
-          "text": "VCU Study",
-          "done": false
+          "done": false,
+          "text": "VCU Study"
         },
         {
-          "text": "Wire Harnessing Study and its Implementation",
-          "done": false
+          "done": false,
+          "text": "Wire Harnessing Study and its Implementation"
         },
         {
-          "text": "Documentation of Designs made till now (KiCad Schematics)",
-          "done": false
+          "done": false,
+          "text": "Documentation of Designs made till now (KiCad Schematics)"
         },
         {
-          "text": "Components from Microchip and Analog Devices",
-          "done": false
+          "done": false,
+          "text": "Components from Microchip and Analog Devices"
         }
       ]
     },
