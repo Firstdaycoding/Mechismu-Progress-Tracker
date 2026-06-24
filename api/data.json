@@ -558,6 +558,10 @@
         {
           "text": "Documentation of Designs made till now (KiCad Schematics)",
           "done": false
+        },
+        {
+          "text": "Components from Microchip and Analog Deviceces",
+          "done": false
         }
       ]
     },
