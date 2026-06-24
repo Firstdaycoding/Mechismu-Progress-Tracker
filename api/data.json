@@ -550,6 +550,10 @@
         {
           "text": "VCU Study",
           "done": false
+        },
+        {
+          "text": "Wire Harnessing Study and its Implementation",
+          "done": false
         }
       ]
     },
