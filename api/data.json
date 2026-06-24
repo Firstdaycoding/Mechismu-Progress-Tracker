@@ -450,7 +450,12 @@
     },
     "2026-W26": {
       "remarks": "",
-      "targets": []
+      "targets": [
+        {
+          "text": "Discussion for Motor Controller Design",
+          "done": false
+        }
+      ]
     },
     "meetings": [
       {
