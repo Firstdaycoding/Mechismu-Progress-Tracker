@@ -76,10 +76,10 @@
         "time": "17:00"
       },
       {
-        "date": "2026-06-24",
-        "time": "10:00",
         "agenda": "Cell arrangement in single module\nInter-cell connections",
-        "decisions": "divide 10p in two 5p so 5 x 16 cells arrangement in a module\ncopper plates design for busbars\nPCB for voltage tabs, thermistors"
+        "date": "2026-06-24",
+        "decisions": "divide 10p in two 5p so 5 x 16 cells arrangement in a module\ncopper plates design for busbars\nPCB for voltage tabs, thermistors",
+        "time": "10:00"
       }
     ],
     "months": {
@@ -273,7 +273,7 @@
       "remarks": "",
       "targets": [
         {
-          "done": false,
+          "done": true,
           "text": "pipes procurement agreement finalize"
         },
         {
@@ -316,6 +316,10 @@
           }
         ]
       }
+    },
+    "2026-W27": {
+      "targets": [],
+      "remarks": ""
     }
   },
   "drivetrain": {
