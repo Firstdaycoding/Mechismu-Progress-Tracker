@@ -291,10 +291,6 @@
         {
           "done": true,
           "text": "Seat and cockpit"
-        },
-        {
-          "done": false,
-          "text": "Review the juniors documentation"
         }
       ]
     },
