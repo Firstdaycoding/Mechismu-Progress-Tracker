@@ -293,7 +293,7 @@
           "text": "Collect everything that is required for packaging"
         },
         {
-          "done": false,
+          "done": true,
           "text": "Seat and cockpit"
         },
         {
